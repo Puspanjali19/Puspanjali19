@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Puspanjali
 
-<!--
-**Puspanjali19/Puspanjali19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student  
+💻 Beginner Software Developer  
+📱 Learning Flutter & Dart  
+🚀 Interested in Mobile App Development and Software Engineering
 
-Here are some ideas to get you started:
+Currently building small projects to improve my coding and UI development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Flutter
+- Dart
+- Git & GitHub
+- Basic Software Engineering
+- UI Development
+- HTML
+- CSS
+- C
+- C++
+- Pyton
+
+
+## 🌐 Connect With Me
+
+LinkedIn: your-www.linkedin.com/in/puspanjali-jha-1ba595386
