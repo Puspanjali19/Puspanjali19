@@ -112,15 +112,9 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Puspanjali19/Puspanjali19/output/snake.svg" alt="Snake animation" />
-
-![Snake animation](https://raw.githubusercontent.com/Puspanjali19/Puspanjali19/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/Puspanjali19/Puspanjali19/output/snake.svg)
 
 ---
 
